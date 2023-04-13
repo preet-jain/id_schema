@@ -20,7 +20,7 @@
           },
           "birthDate": {
             "@id": "vocab:birthDate",
-            "@type": "xsd:integer"
+            "@type": "xsd:string"
           },
           "country": {
             "@id": "vocab:country",
