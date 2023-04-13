@@ -5,8 +5,8 @@
       "@protected": true,
       "id": "@id",
       "type": "@type",
-      "ProofOfResidenceny": {
-        "@id": "https://raw.githubusercontent.com/preet-jain/id_schema/main/schema.jsonld#ProofOfResidenceny",
+      "ProofOfResidency": {
+        "@id": "https://raw.githubusercontent.com/preet-jain/id_schema/main/schema.jsonld#ProofOfResidency",
         "@context": {
           "@version": 1.1,
           "@protected": true,
