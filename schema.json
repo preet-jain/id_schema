@@ -121,8 +121,7 @@
                     "format": "uri"
                 },
                 "birthDate": {
-                    "type": "string",
-                    "format": "uri"
+                    "type": "integer"
                 },
                 "country": {
                     "type": "string",
