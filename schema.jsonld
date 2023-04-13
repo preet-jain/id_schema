@@ -6,13 +6,13 @@
       "id": "@id",
       "type": "@type",
       "ProofOfDaoLongevity": {
-        "@id": "https://raw.githubusercontent.com/0xPolygonID/tutorial-examples/main/credential-schema/proof-of-dao-longevity.jsonld#ProofOfDaoLongevity",
+        "@id": "https://raw.githubusercontent.com/preet-jain/id_schema/main/schema.jsonld#ProofOfDaoLongevity",
         "@context": {
           "@version": 1.1,
           "@protected": true,
           "id": "@id",
           "type": "@type",
-          "vocab": "https://github.com/0xPolygonID/tutorial-examples/blob/main/credential-schema/proof-of-dao-longevity-vocab.md#",
+          "vocab": "https://github.com/preet-jain/id_schema/blob/4fe324db9ce1a8b253eedebaf1ff4526d5e00cda/vocab.md#",
           "xsd": "http://www.w3.org/2001/XMLSchema#",
           "name": {
             "@id": "vocab:name",
