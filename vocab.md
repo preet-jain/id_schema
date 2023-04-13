@@ -2,7 +2,7 @@
 
 Describes the name of the resident 
 
-# birthdate 
+# birthDate 
 
 Describes the birth date of the resident 
 
