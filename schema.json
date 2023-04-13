@@ -118,14 +118,12 @@
                 },
                 "name": {
                     "type": "string",
-                    "format": "uri"
                 },
                 "birthDate": {
-                    "type": "integer"
+                    "type": "string"
                 },
                 "country": {
                     "type": "string",
-                    "format": "uri"
                 }
             }
         }
