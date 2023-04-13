@@ -117,13 +117,16 @@
                     "format": "uri"
                 },
                 "name": {
-                    "type": "string"
+                    "type": "string",
+                    "format": "uri"
                 },
                 "birthDate": {
-                    "type": "string"
+                    "type": "string",
+                    "format": "uri"
                 },
                 "country": {
-                    "type": "string"
+                    "type": "string",
+                    "format": "uri"
                 }
             }
         }
